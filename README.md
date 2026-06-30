@@ -1,8 +1,8 @@
 ## Archive of the CS1 course assignments for the Fall 2020 semester
 
-This repo serves as an archive for CSC212 (CS1) assignments taught by ![Dr. Daniel Schlegel](https://danielschlegel.org/wp/) during my time as an undergraduate Cognitive Science student at SUNY Oswego.
+This repo serves as an archive for CSC212 (CS1) assignments taught by [Dr. Daniel Schlegel](https://danielschlegel.org/wp/) during my time as an undergraduate Cognitive Science student at SUNY Oswego.
 
-View my ![CS1 Website](https://www.cs.oswego.edu/~ewingard/CS1WorkSite/) that was used to house the submitted code and their accompanying demos, or poke around my folders.
+View my [CS1 Website](https://www.cs.oswego.edu/~ewingard/CS1WorkSite/) that was used to house the submitted code and their accompanying demos, or poke around my folders.
 
 ### General overview of assignments from CS1:
 - #### Hello World
